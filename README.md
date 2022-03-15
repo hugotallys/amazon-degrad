@@ -1,6 +1,10 @@
 # amazon-degrad
 Projeto desenvolvido no Curso de Verão LaCCAN 2022.
 
+# Links para os notebooks (Colab) e outros materiais
+
+> https://drive.google.com/drive/folders/1RXn1MWhZvDvehE_5bQ36NgM_JRWItMUM?usp=sharing
+
 # Descrição original do dataset (Kaggle)
 
 > https://www.kaggle.com/mbogernetto/brazilian-amazon-rainforest-degradation
